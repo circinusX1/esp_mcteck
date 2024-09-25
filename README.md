@@ -1,4 +1,4 @@
-# Temperature and Humidity watcher
+# Temperature and Humidity relay control
 
 Once flashed connect to mckteck and setup the wifi and AP new password. Default passord is 12345678.
 
