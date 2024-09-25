@@ -50,7 +50,7 @@ In config page you can set the RELAY rules for either sensor.
 
 ![image](https://github.com/user-attachments/assets/2f7ca060-8aef-41a9-a45b-e19335ba5689)
 
-As mine is in the furnace after the humidifier, I turn the humidifier by the rule above.
+As mine is in the hum intake will turn the humidifier by the rule above.
 
 Enjoy.
 
