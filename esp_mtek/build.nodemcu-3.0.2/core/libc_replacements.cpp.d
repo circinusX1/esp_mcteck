@@ -1,0 +1,37 @@
+build.nodemcu-3.0.2/core/libc_replacements.cpp.o: \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/cores/esp8266/libc_replacements.cpp \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/ets_sys.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/c_types.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/eagle_soc.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/os_type.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/ets_sys.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/osapi.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/cores/esp8266/user_config.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/mem.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/user_interface.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/os_type.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/ipv4_addr.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/init.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/opt.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwipopts.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/gluedebug.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/debug.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/arch.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/arch/cc.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip-err-t.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/glue.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/gluedebug.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/ipv4_addr.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/arch/cc.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip-git-hash.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/debug.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/ip_addr.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/def.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/ip4_addr.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/ip6_addr.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/lwip2/include/lwip/def.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/queue.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/spi_flash.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/spi_flash_geometry.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/tools/sdk/include/gpio.h \
+ /BOARDS/ESP/Esp8266-Arduino-Makefile/esp8266-3.0.2/cores/esp8266/debug.h
