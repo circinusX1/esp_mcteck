@@ -29,7 +29,7 @@ espxxsrv_t::espxxsrv_t():_esp(80)
     if(CFG(mcteck)[0]==0)
     {
         ::strcpy(CFG(mcteck),"mcteckh");
-        ::strcpy(CFG(mtkpsw),"mcteckh");
+        ::strcpy(CFG(mtkpsw),"12345678");
     }
     WiFi.softAP(CFG(mcteck), CFG(mtkpsw));
     Serial.printf("Credentials %s/%s\r\n",CFG(mcteck), CFG(mtkpsw));
