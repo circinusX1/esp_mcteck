@@ -1,9 +1,8 @@
 # Temperature and Humidity relay control
 
-### Hardware
+### Hardware Search ESP8266 RELAY, SHT21 and AHT10 on amazopn.ca
 ##### Board: ESP8266 ESP-12F WI FI Module 1 Channel Relay Shield Over Current Protection Wi-Fi Network Relay Module 10A DC 7-30V 
 ##### I2C: Temperature Humidity Sensor GY-213V-HTU21D I2C Replace SHT21 SI7021 HDC1080 Module
-
 
 ###### Soldering I2C module to the board on the dedicated I2C BUS.
 ###### You can solder 2 seonsors MAX. SHT21 or AHT10 on same I2C lines
