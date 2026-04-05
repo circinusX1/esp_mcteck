@@ -3,6 +3,7 @@
 ### Hardware Search ESP8266 RELAY, SHT21 and AHT10 on amazon.ca
 ##### Board: ESP8266 ESP-12F WI FI Module 1 Channel Relay Shield Over Current Protection Wi-Fi Network Relay Module 10A DC 7-30V 
 ##### I2C: Temperature Humidity Sensor GY-213V-HTU21D I2C Replace SHT21 SI7021 HDC1080 Module
+##### UART: CP2102 USB to TTL Serial Adapter – USB 2.0 to 5Pin UART   For flashing
 
 ###### Soldering I2C module to the board on the dedicated I2C BUS.
 ###### You can solder 2 seonsors MAX. SHT21 or AHT10 on same I2C lines
@@ -11,6 +12,20 @@
 
 
 Once flashed connect to AP: **mckteck** and setup the wifi to your **AP**. 
+   * To flash 
+       * power off the baord
+       * jump the flash JUMPER
+       * connect the PC to the board using USB to UART and
+       * power on the board
+       * open in arduin IDE th the project.
+       * Select Generic ESP8266
+       * Goto _config.h and select ESP relay board config
+       * Build
+       * Flash using programmer or just Flash, try both options.
+       * Power off board, get the jumper, power on board.
+       * connect to local AP mkteck and setup your wifi.
+       * Configure the trigger temperature + humidity combination in setting
+       *  
 Default passord for **mkteck** is **12345678**. See source code.
 
 ![image](https://github.com/user-attachments/assets/8ee904b7-9e29-4bd2-ab56-342177fe6a1c)
