@@ -6,18 +6,16 @@
 
 
 ###### Soldering I2C module to the board on the dedicated I2C BUS.
-###### You can solder 2 seconsors MAX. SHT21 
+###### You can solder 2 seonsors MAX. SHT21 or AHT10 on same I2C lines
 
 ![image](https://github.com/user-attachments/assets/af5ba058-c2a2-4036-8d7e-1f8a97062230)
 
 
-
-Once flashed connect to mckteck and setup the wifi and AP new password. Default passord is 12345678. See source code.
+Once flashed connect to AP: **mckteck** and setup the wifi to your **AP**. 
+Default passord for **mkteck** is **12345678**. See source code.
 
 ![image](https://github.com/user-attachments/assets/8ee904b7-9e29-4bd2-ab56-342177fe6a1c)
 
-
-###### Uses VCC GND MOSI MISO to T-H sensors, see soldering
 
 
 ![image](https://github.com/user-attachments/assets/3ad7a4c2-9352-4a9a-a393-ed2ff4d6583b)
@@ -28,14 +26,6 @@ Clicking on graph will switch data rendering between the sensors.
 
 HVAC humidifier intake:
 ![image](https://github.com/user-attachments/assets/7932a69a-5a0d-4881-8268-d70a50dcdea9)
-
-
-Water tank out pipe monitor (optional second I2C sensor ):
-![image](https://github.com/user-attachments/assets/b554a810-297c-4176-832a-c8a16b24203a)
-
-
-
-
 
 
 Sensors are detected by the I2C address as seen in the code below.
@@ -73,8 +63,11 @@ Enjoy.
 <img width="349" height="465" alt="image" src="https://github.com/user-attachments/assets/898e8446-7a64-43da-b548-72741df74ef7" />
 
 
-####  ESP module controlelr powered at 9VDC
+##### Water tank out pipe monitor (optional second I2C sensor ):
+![image](https://github.com/user-attachments/assets/b554a810-297c-4176-832a-c8a16b24203a)
 
+
+####  ESP module controlelr powered at 9VDC
 
 <img width="609" height="361" alt="image" src="https://github.com/user-attachments/assets/d0125e4a-e09a-4795-abc9-f3affc270add" />
 
