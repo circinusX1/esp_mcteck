@@ -72,6 +72,8 @@ Enjoy.
 
 
 
+#### concept schematic
+<img width="1222" height="493" alt="image" src="https://github.com/user-attachments/assets/aafef5ee-c182-4d26-a71f-75d75bd0def3" />
 
 
 
