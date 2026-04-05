@@ -1,27 +1,17 @@
 # Temperature and Humidity relay control
 
-#### BOARD: 
-###### DC 5V-26V ESP8266 ESP-12F Wireless Wifi Relay Module 220V 10A Relay Module ESP12F 802.11b/g/n 2.4GHz 12V 24V
-###### link: 
-
-
-
-Once flashed connect to mckteck and setup the wifi and AP new password. Default passord is 12345678.
-
-![image](https://github.com/user-attachments/assets/8ee904b7-9e29-4bd2-ab56-342177fe6a1c)
-
-
-#### Uses this board by default in: _myconfig.h   (any ESP32 with one relay from aliexpress)
-
-
-
-#### Amazon search these:
-##### ESP8266 ESP-12F WI FI Module 1 Channel Relay Shield Over Current Protection Wi-Fi Network Relay Module 10A DC 7-30V 
-##### Temperature Humidity Sensor GY-213V-HTU21D I2C Replace SHT21 SI7021 HDC1080 Module
+### Hardware
+##### Board: ESP8266 ESP-12F WI FI Module 1 Channel Relay Shield Over Current Protection Wi-Fi Network Relay Module 10A DC 7-30V 
+##### I2C: Temperature Humidity Sensor GY-213V-HTU21D I2C Replace SHT21 SI7021 HDC1080 Module
 
 
 ![image](https://github.com/user-attachments/assets/af5ba058-c2a2-4036-8d7e-1f8a97062230)
 
+
+
+Once flashed connect to mckteck and setup the wifi and AP new password. Default passord is 12345678. See source code.
+
+![image](https://github.com/user-attachments/assets/8ee904b7-9e29-4bd2-ab56-342177fe6a1c)
 
 
 ###### Uses VCC GND MOSI MISO to T-H sensors, see soldering
