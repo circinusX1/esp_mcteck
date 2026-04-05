@@ -1,5 +1,11 @@
 # Temperature and Humidity relay control
 
+#### BOARD: 
+###### DC 5V-26V ESP8266 ESP-12F Wireless Wifi Relay Module 220V 10A Relay Module ESP12F 802.11b/g/n 2.4GHz 12V 24V
+###### link: 
+
+
+
 Once flashed connect to mckteck and setup the wifi and AP new password. Default passord is 12345678.
 
 ![image](https://github.com/user-attachments/assets/8ee904b7-9e29-4bd2-ab56-342177fe6a1c)
