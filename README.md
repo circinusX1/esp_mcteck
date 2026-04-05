@@ -5,6 +5,9 @@
 ##### I2C: Temperature Humidity Sensor GY-213V-HTU21D I2C Replace SHT21 SI7021 HDC1080 Module
 
 
+###### Soldering I2C module to the board on the dedicated I2C BUS.
+###### You can solder 2 seconsors MAX. SHT21 
+
 ![image](https://github.com/user-attachments/assets/af5ba058-c2a2-4036-8d7e-1f8a97062230)
 
 
